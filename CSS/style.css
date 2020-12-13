@@ -3,7 +3,8 @@
     vertical-align: top;
 }
 .logo {
-    width: 23%;
+    height: 0px;
+    width: 90%;
     padding: 1%;
 }
 .ul {
@@ -25,5 +26,13 @@
     background-color: #373738;
 }
 .space {
-    margin: 300px;
+    margin: 125px;
+    justify-content: space-around;
+}
+.picOfben {
+    width: 0%;
+}
+.paragraphAboutme {
+    width: 10%;
+    justify-content: center;
 }
